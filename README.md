@@ -112,7 +112,3 @@ A Reset button should return slicers to the default state using a bookmark.
 > Performed data-quality validation, feature engineering and exploratory analysis using Pandas and NumPy.
 
 > Designed an interactive Power BI dashboard with KPI cards, slicers, DAX measures and operational drill-downs.
-
-## Important
-
-Do not upload confidential company data or credentials to GitHub. If the dataset is synthetic/public, state that clearly in the repository.
